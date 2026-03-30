@@ -1,6 +1,5 @@
 import javax.swing.*;
 import java.awt.event.*;
-
 class Pen {
     String name;
     double price;
@@ -12,7 +11,6 @@ class Pen {
         this.sold = false;
     }
 }
-
 class User {
     String name;
     double balance;
